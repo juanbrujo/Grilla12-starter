@@ -7,5 +7,5 @@ Grilla 12 starter
 
 - [jQuery](http://www.jquery.com)
 - [Modernizr](http://www.modernizr.com)
-- [960 Grid System](http://www.http://960.gs/)
+- [960 Grid System](http://www.960.gs/)
 - [Normalize.css](http://necolas.github.com/normalize.css/)
